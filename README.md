@@ -33,3 +33,9 @@ kaggle datasets download darshanthakare/dog-breeds-image-dataset>
 ## Results
 Training Accuracy: xx%
 Validation Accuracy: xx%
+
+## Predictions
+You can predict the image taken from dataset itself.You can predict the new image by changing path
+
+## To Improve Accuracy
+Run the training loop upto 15-50 Epochs (Warning:Its consumes more time cause large dataset)

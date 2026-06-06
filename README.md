@@ -35,7 +35,7 @@ Training Accuracy: xx%
 Validation Accuracy: xx%
 
 ## Predictions
-You can predict the image taken from dataset itself.You can predict the new image by changing path
+You can predict the image taken from dataset itself.And You can also predict the new image by changing path in last cell
 
 ## To Improve Accuracy
 Run the training loop upto 15-50 Epochs (Warning:Its consumes more time cause large dataset)
